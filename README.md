@@ -7,6 +7,8 @@ SBootPythonAi25
 스프링부트와파이썬AI협업모듈
 
 개발환경구축
+<img width="2813" height="1372" alt="image" src="https://github.com/user-attachments/assets/31222b3e-8e23-4ded-a5d6-57413e91df41" />
+
 
 파이썬 인터프리터 : http://www.python.org/ -> 3.12버전 설치(3.8이상필수)
 
